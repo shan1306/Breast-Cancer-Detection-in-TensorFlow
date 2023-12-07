@@ -13,12 +13,12 @@ Dataset:
 The model is trained on the **Breast Cancer Wisconsin (Diagnostic) Data Set** sourced from Kaggle.
 
 ## Results:
-* Confusion Matrix:
-  
-![image](https://github.com/shan1306/Breast-Cancer-Detection-in-TensorFlow/assets/98233016/f678b52d-c42e-435f-8fd1-126307dabb99 | width=100)
 * Training Stats:
   
 ![image](https://github.com/shan1306/Breast-Cancer-Detection-in-TensorFlow/assets/98233016/6d320a44-5efd-4eda-b614-31dd0755d509)
+* Confusion Matrix:
+  
+![image](https://github.com/shan1306/Breast-Cancer-Detection-in-TensorFlow/assets/98233016/f678b52d-c42e-435f-8fd1-126307dabb99)
 
 
 
