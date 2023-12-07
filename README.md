@@ -1,4 +1,4 @@
-# Breast Cancer Detection0 in TensorFlow
+# Breast Cancer Detection in TensorFlow
 
 ## Overview:
 Welcome to the Breast Cancer Detection in TensorFlow repository! This project focuses on utilizing machine learning techniques to build a robust model for early detection of breast cancer. The model is developed in a Google Colab notebook and trained on a dataset obtained from Kaggle.
